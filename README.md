@@ -1,6 +1,6 @@
 🏨 Ocean View Resort Reservation System
 
-A professional, full-featured Hotel Management System designed to streamline hotel operations including reservations, billing, room management, and customer handling.
+A Reservation system System designed to streamline hotel operations including reservations, billing, room management, and customer handling.
 
 📌 Table of Contents
 Overview
